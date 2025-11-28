@@ -55,3 +55,7 @@ Make sure the following are installed:
 1. Clone the repository:
 ```bash
 git clone https://github.com/shashwatsinha1/personal-finance-tracker.git
+
+2. Navigate to the frontend folder:
+cd personal-finance-tracker/frontend
+

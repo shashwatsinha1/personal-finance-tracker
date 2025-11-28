@@ -41,21 +41,4 @@ A **web-based finance management system** that allows users to track their incom
 - Git & GitHub
 - Flexbox & modern CSS layouting
 
----
-
-## 📦 **Installation**
-
-### **Prerequisites**
-Make sure the following are installed:
-- Node.js (Recommended LTS)
-- npm (comes with Node)
-- Git (optional)
-
-### **Steps to Setup**
-1. Clone the repository:
-```bash
-git clone https://github.com/shashwatsinha1/personal-finance-tracker.git
-
-2. Navigate to the frontend folder:
-cd personal-finance-tracker/frontend
 
